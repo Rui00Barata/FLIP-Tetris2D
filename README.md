@@ -1,6 +1,6 @@
 # Tetris2D
 
-Um pequeno projeto no amito da cadeira de Computação Gráfica.<br>
+Um pequeno projeto no ambito da cadeira de Computação Gráfica.<br>
 <br>
 Instruções:<br> 
   ◄ : mover a peça para a esquerda;<br>
