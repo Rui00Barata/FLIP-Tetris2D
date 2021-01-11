@@ -10,5 +10,9 @@ Instruções:<br>
   c : guardar a peça atual.<br>
   <br>
 Compilar:<br>
-  g++ main.cpp -o main -lGLEW -lglfw -lGL
+  g++ main.cpp -o Tetris2D -lGLEW -lglfw -lGL<br>
+ <br>
+Execução:<br>
+  ./Tetris2D  
+
   
