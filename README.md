@@ -2,7 +2,7 @@
 
 Um pequeno projeto no amito da cadeira de Computação Gráfica.
 
-Instruções: 
+Instruções:<br> 
   ◄ : mover a peça para a esquerda;
   ► : mover a peça para a direita;
   ▲ : rodar peça;
